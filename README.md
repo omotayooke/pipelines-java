@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/OmotayoOke/OmotayoOke/_apis/build/status/omotayooke.pipelines-java?branchName=master)](https://dev.azure.com/OmotayoOke/OmotayoOke/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
